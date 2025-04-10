@@ -1,3 +1,5 @@
+![HEIC-to-Image-Converter](https://github.com/user-attachments/assets/8cf42d5c-9683-42d0-9711-38392be8cae5)
+
 # HEIC to Image Converter 🖼️
 
 A simple Python script that recursively finds `.HEIC` image files in a given folder and converts them to `.JPG`, `.PNG`, `.TIFF`, `.WEBP`, and more, using [Pillow](https://python-pillow.org/) and [pillow-heif](https://github.com/carsales/pillow-heif).
