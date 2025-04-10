@@ -11,7 +11,7 @@ You can easily extend this script to convert `.HEIC` files to various image form
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/heic-to-jpg-converter.git
+git clone https://github.com/farzinsh7/HEIC-to-Image-Converter.git
 cd heic-to-jpg-converter
 ```
 
